@@ -915,7 +915,7 @@ unknown
 ## select_unit
 
 ```lua
-(method) Player:select_unit(unit_or_group: Unit|UnitGroup)
+(method) Player:*/-*(unit_or_group: Unit|UnitGroup)
 ```
 
 选中单位/单位组
